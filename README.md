@@ -10,6 +10,6 @@
 
 ❖ POST Method: Create Book List Address
 
-❖ GET Method: Final Book List Address
+❖ GET Method: Get Final Book List Address
 
 ❖ DELETE Method: Delete User
