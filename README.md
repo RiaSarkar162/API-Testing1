@@ -15,6 +15,11 @@
 ❖ DELETE Method: Delete User
 
 ### -------------------Summary Report --------------------
-TOTAL ITERATIONS - 1, TOTAL REQUESTS - 7, TOTAL PREREQUESTS SCRIPTS -0, TOTAL FAILED TESTS - 0, TOTAL SKIPPED TESTS - 0 TOTAL ASSERTIONS -1
+TOTAL ITERATIONS - 1, TOTAL REQUESTS - 7, TOTAL PREREQUESTS SCRIPTS -0, TOTAL FAILED TESTS - 0, TOTAL SKIPPED TESTS - 0, TOTAL ASSERTIONS -1
 
+#### ---------------Timings and Data--------------------
+❖Total run duration: 4.2s
 
+ ❖Total data received: 4.89KB
+ 
+ ❖Average response time: 514ms
