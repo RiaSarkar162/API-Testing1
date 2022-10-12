@@ -25,7 +25,13 @@
 https://riasarkar162.github.io/API-Testing1/
  
 ### -------------------Summary Report --------------------
-TOTAL ITERATIONS - 1, TOTAL REQUESTS - 10, TOTAL PREREQUESTS SCRIPTS -1, TOTAL FAILED TESTS - 0, TOTAL SKIPPED TESTS - 0,TEST SCRIPTS - 10, TOTAL ASSERTIONS -19
+TOTAL ITERATIONS - 1,                    
+TOTAL REQUESTS - 10,                                      
+ TOTAL PREREQUESTS SCRIPTS -1,                                 
+  TOTAL FAILED TESTS - 0,                                      
+  TOTAL SKIPPED TESTS - 0,                               
+  TEST SCRIPTS - 10,                                   
+  TOTAL ASSERTIONS -19
 
 ###  ---------------Timings and Data--------------------
 ❖Total run duration: 4.2s
