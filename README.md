@@ -2,17 +2,24 @@
 
 ❖ POST Method: Create Access User
 
+❖ POST Method: Generate Token
+
+❖ POST Method: Generate Authorization
+
 ❖ GET Method: Get User Data
 
-❖ PUT Method: Update User Data
-
-❖ GET Method: Specific User Data
-
-❖ POST Method: Create Book List Address
-
-❖ GET Method: Get Final Book List Address
-
 ❖ DELETE Method: Delete User
+
+❖ GET Method: Get Books List Address
+
+❖ POST Method: Create Book List Address to the User
+
+❖ GET Method: Get Specific Book List
+
+❖ PUT Method: Update User Data to Provide New Book
+
+❖ DELETE Method: Delete Books from User
+ 
 
 ## SEE LIVE REPORT:
 https://riasarkar162.github.io/API-Testing1/
